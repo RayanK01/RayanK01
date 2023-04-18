@@ -14,14 +14,6 @@
 - Voetbal & gamen
 
 
-<a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://www.pixelsquid.com/png/lgbt-gay-pride-waving-flag-2588101171021354474?image=I02"
-      alt="html5"/> 
-  </a>
-
-
-
-
 <h3 align="center">🛠️Talen</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
