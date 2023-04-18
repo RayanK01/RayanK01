@@ -18,10 +18,6 @@
 
 <h3 align="center">Talen</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -31,8 +27,8 @@
       alt="css3"/>
   </a>
  <a href="https://www.w3schools.com/c#/" target="_blank">
-  <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"](https://img.shields.io/badge/C%23-239120?style=for-thebadge&logo=c-sharp&logoColor=white)
-      alt="css3"/>
+  <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt=""/>
   </a>
 
 </p>
