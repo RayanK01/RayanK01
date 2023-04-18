@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hoi+ik+ben+Rayan;Software+Developer+Student;16+jaar+oud" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hoi,+ik+ben+Rayan;Software+Developer+Student;16+jaar+oud" alt="Headline" />
     </div>
 <h1 align="center">Welkom op mijn profiel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <div align=center>
@@ -10,7 +10,7 @@
 
 - 16 jaar oud
 - Nova college
-- Software developer student
+- Software developer niveau 4 student
 - Voetbal & gamen
 
 
