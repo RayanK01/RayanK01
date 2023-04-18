@@ -31,11 +31,11 @@
   </a>
 <a href="https://www.w3schools.com/php/" target="_blank">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-      alt=""/>
+      alt="css3"/>
   </a>
 <a href="https://www.w3schools.com/MySQL/" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-      alt=""/>
+      alt="css3"/>
   </a>
 
 </p>
