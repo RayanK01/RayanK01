@@ -12,6 +12,8 @@
 - Nova college
 - Software developer student
 - Voetbal & gamen
+<img src="[https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://www.pixelsquid.com/png/lgbt-gay-pride-waving-flag-2588101171021354474?image=I02
+)"
 
 
 
