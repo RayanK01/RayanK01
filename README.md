@@ -15,7 +15,6 @@
 
 
 
-
 <h3 align="center">Talen</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -28,6 +27,10 @@
   </a>
  <a href="https://www.w3schools.com/c#/" target="_blank">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+      alt=""/>
+  </a>
+<a href="https://www.w3schools.com/php/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
       alt=""/>
   </a>
 
