@@ -34,7 +34,7 @@
       alt=""/>
   </a>
 <a href="https://www.w3schools.com/MySQL/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       alt=""/>
   </a>
 
