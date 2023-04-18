@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hoi+ik+ben+Rayan;Software+Developer+Student;16+jaar+oud" alt="Headline" />
+    </div>
+<h1 align="center">Welkom op mijn profiel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<div align=center>
+<div align=left>
 
-<!--
-**RayanK01/RayanK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Over mij
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 16 jaar oud
+- Nova college
+- Software developer student
+- Voetbal & gamen
+
+
+
+
+Wat ik nu leer:
+
+- C#
+- PHP
+- MySQL
+- HTML
+
+
+
+
+![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=RayanK01&show_icons=true&theme=radical)
+<div align=left>
