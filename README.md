@@ -5,7 +5,7 @@
 <div align=left>
 <div align=left>
 
-### Over mij
+### 🧭Over mij
 
 
 - 16 jaar oud
@@ -22,7 +22,7 @@
 
 
 
-<h3 align="center">Talen</h3>
+<h3 align="center">🛠️Talen</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
