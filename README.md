@@ -27,10 +27,10 @@
   </a>
  <a href="https://www.w3schools.com/c#/" target="_blank">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-      alt=""/>
+      alt="css3"/>
   </a>
 <a href="https://www.w3schools.com/php/" target="_blank">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
       alt=""/>
   </a>
 
