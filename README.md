@@ -13,7 +13,12 @@
 - Software developer student
 - Voetbal & gamen
 
-<img src="https://www.pixelsquid.com/png/lgbt-gay-pride-waving-flag-2588101171021354474?image=I02"
+
+<a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://www.pixelsquid.com/png/lgbt-gay-pride-waving-flag-2588101171021354474?image=I02"
+      alt="html5"/> 
+  </a>
+
 
 
 
